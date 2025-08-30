@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+streamlit
+sentence-transformers
+google-generativeai
+torch>=2.6.0
+numpy
+pydantic>=2
+requests
