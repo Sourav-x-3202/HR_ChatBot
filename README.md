@@ -167,6 +167,21 @@ Want to improve this project? Contributions are welcome!
 - Open a Pull Request
 
 ---
+## Author
+
+**Sourav Sharma**
+Developer. Maker. Privacy-first AI enthusiast.
+Find me on GitHub → [@Sourav-x-3202](https://github.com/Sourav-x-3202)
+
+---
+
+
+## Star This Project
+
+If you found this useful, helpful, or inspiring — please consider starring the repository.
+It helps others discover the project and keeps development going 
+
+---
 ## License
 
 This project is licensed under the MIT License.
