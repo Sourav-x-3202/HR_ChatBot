@@ -42,6 +42,7 @@ and get **chat-style responses** with matching employee details.
 
 ## Project Structure
 
+
 ```bash
 HR_ChatBot/
 │── 📜 app.py             # Streamlit frontend (chat interface)
